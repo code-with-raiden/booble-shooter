@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7o8q*yrku9e%#-%!^yz93c*81swx82c%z=48d1zr7k8md!(&(#
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['booble.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['booble-shooter.onrender.com', 'localhost', '127.0.0.1']
 
 
 
