@@ -1,6 +1,6 @@
 # Booble Shooter
 
-Booble Shooter is a web application that allows users to participate in video conferencing. The project is built with Django and deployed on [Render](https://render.com).
+Booble Shooter is a web application that allows users to play a game. The project is built with Django and deployed on [Render](https://render.com).
 
 ## Project Link
 Access the live project here: [Booble Shooter](https://booble-shooter.onrender.com)
